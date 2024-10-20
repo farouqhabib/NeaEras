@@ -2891,8 +2891,8 @@ img.u-pull-left {
 .s-header__logo {
     z-index  : 3;
     position : absolute;
-    top      : -60px;
-    left     : 2rem;
+    top      : -10.5rem;
+    left     : 0.5rem;
 }
 
 .s-header__logo a {
@@ -2904,8 +2904,8 @@ img.u-pull-left {
 }
 
 .s-header__logo img {
-    width          : 30vw;
-    max-width      : 200px;
+    width          : 20vw;
+    max-width      : 300px;
     margin         : 0;
     vertical-align : bottom;
 }
